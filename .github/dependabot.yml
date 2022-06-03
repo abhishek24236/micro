@@ -1,4 +1,4 @@
-Vesrion: 2
+vesrion: 2
 updates:
   - package-ecosystem: "npm"
     directory: "/"
