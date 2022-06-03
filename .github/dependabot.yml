@@ -1,0 +1,12 @@
+Vesrion: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "sunday"
+    target-branch: "dev"
+    labels:
+      - "Dependabot"
+    assignees:
+      - "abhishek24236"
