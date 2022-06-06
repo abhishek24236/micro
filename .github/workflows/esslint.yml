@@ -35,5 +35,5 @@ jobs:
       
 
       - name: Run ESLint
-        run: eslint "./**"
+        run: npx eslint "./**" 
  
